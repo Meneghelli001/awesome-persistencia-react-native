@@ -2,11 +2,7 @@
 
 > Eu criei este repositório para compartilhar conhecimento sobre Persistência de Dados no React Native. Meu objetivo é que este conteúdo ajude outras pessoas que estão iniciando na área, assim como eu, a encontrar informações ricas e organizadas sobre este tema, que é uma base tão importante para o desenvolvimento.
 
-
-
 ---
-
-
 
 ## Conceitos Gerais
 
@@ -16,11 +12,7 @@
 
 - \[Diferença entre armazenamento local e remoto (MDN)](https://developer.mozilla.org/pt-BR/docs/Web/API/Storage)
 
-
-
 ---
-
-
 
 ## AsyncStorage
 
@@ -32,11 +24,7 @@
 
 - \[Como limpar e atualizar dados do AsyncStorage](https://reactnative.dev/docs/asyncstorage#clear)
 
-
-
 ---
-
-
 
 ## SQLite
 
@@ -48,11 +36,7 @@
 
 - \[Comparação: AsyncStorage vs SQLite](https://dev.to/amanhimself/sqlite-vs-asyncstorage-in-react-native-40c2)
 
-
-
 ---
-
-
 
 ## Realm Database
 
@@ -64,11 +48,7 @@
 
 - \[Realm vs SQLite: qual escolher?](https://www.simform.com/blog/realm-vs-sqlite/)
 
-
-
 ---
-
-
 
 ## MongoDB e Armazenamento Remoto
 
@@ -80,11 +60,7 @@
 
 - \[Modelo Offline First com React Native](https://dev.to/mmazzarolo/offline-first-react-native-apps-4e45)
 
-
-
 ---
-
-
 
 ## Ferramentas e Utilitários
 
@@ -96,11 +72,7 @@
 
 - \[react-query (gerenciamento de cache e sincronização remota)](https://tanstack.com/query/latest)
 
-
-
 ---
-
-
 
 ## Vídeos e Tutoriais em Português
 
@@ -112,11 +84,7 @@
 
 - \[Realm Database no React Native (YouTube – Rocketseat)](https://www.youtube.com/watch?v=GFVZt8tqL4E)
 
-
-
 ---
-
-
 
 ## Extras
 
@@ -126,13 +94,10 @@
 
 - \[React Native Architecture – padrões de projeto](https://reactnative.dev/docs/architecture-overview)
 
-
-
 ---
 
+### Contribuições
 
-
-\### Contribuições
 
 
 
