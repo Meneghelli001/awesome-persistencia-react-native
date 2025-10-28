@@ -13,12 +13,11 @@
 - [Ferramentas e Utilitários](#ferramentas-e-utilitários)
 - [Vídeos e Tutoriais em Português](#vídeos-e-tutoriais-em-português)
 - [Extras](#extras)
-- 
 ---
 
 ## Conceitos Gerais
 
-- Documentação oficial do AsyncStorage: (https://react-native-async-storage.github.io/async-storage/docs/usage)
+- [Documentação oficial do AsyncStorage] (https://react-native-async-storage.github.io/async-storage/docs/usage)
 
 - Persistência de dados no React Native (React Native Docs): (https://reactnative.dev/docs/asyncstorage)
 
@@ -105,6 +104,7 @@
 - Awesome Async Storage (curadoria específica): (https://github.com/react-native-async-storage/awesome-async-storage)
 
 - React Native Architecture – padrões de projeto: (https://reactnative.dev/docs/architecture-overview)
+
 
 
 
