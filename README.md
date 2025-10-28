@@ -1,6 +1,6 @@
 # Awesome Persistência de Dados em React Native
 
-> Lista curada de recursos, bibliotecas e tutoriais sobre armazenamento local e remoto em React Native.
+> Eu criei este repositório para compartilhar conhecimento sobre Persistência de Dados no React Native. Meu objetivo é que este conteúdo ajude outras pessoas que estão iniciando na área, assim como eu, a encontrar informações ricas e organizadas sobre este tema, que é uma base tão importante para o desenvolvimento.
 
 
 
@@ -133,6 +133,7 @@
 
 
 \### Contribuições
+
 
 
 
