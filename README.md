@@ -1,4 +1,7 @@
 # Awesome Persistência de Dados em React Native
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)
 
 > Eu criei este repositório para compartilhar conhecimento sobre Persistência de Dados no React Native. Meu objetivo é que este conteúdo ajude outras pessoas que estão iniciando na área, assim como eu, a encontrar informações ricas e organizadas sobre este tema, que é uma base tão importante para o desenvolvimento.
 
@@ -16,6 +19,7 @@
 - [Ferramentas e Utilitários](#ferramentas-e-utilitários)
 - [Vídeos e Tutoriais em Português](#vídeos-e-tutoriais-em-português)
 - [Extras](#extras)
+- [Como Contribuir](como-contribuir)
 ---
 
 ## Conceitos Gerais
@@ -108,14 +112,10 @@
 
 - [React Native Architecture – padrões de projeto](https://reactnative.dev/docs/architecture-overview)
 
+---
 
+## Como Contribuir
 
-
-
-
-
-
-
-
-
-
+Se você conhece algum artigo, vídeo ou ferramenta legal sobre persistência de dados no React Native, fique à vontade para sugerir aqui!  
+Pode abrir uma **Issue** com a dica ou, se preferir, um **Pull Request** para adicionar direto na lista.  
+Toda ajuda é bem-vinda para deixar esse conteúdo ainda mais completo.
