@@ -3,6 +3,9 @@
 > Eu criei este repositório para compartilhar conhecimento sobre Persistência de Dados no React Native. Meu objetivo é que este conteúdo ajude outras pessoas que estão iniciando na área, assim como eu, a encontrar informações ricas e organizadas sobre este tema, que é uma base tão importante para o desenvolvimento.
 
 ---
+- Revisar os Links novamente
+- Adicionar as descrições de cada tópico
+---
 
 ## Índice
 - [Conceitos Gerais](#conceitos-gerais)
@@ -104,6 +107,7 @@
 - [Awesome Async Storage (curadoria específica)](https://github.com/react-native-async-storage/awesome-async-storage)
 
 - [React Native Architecture – padrões de projeto](https://reactnative.dev/docs/architecture-overview)
+
 
 
 
