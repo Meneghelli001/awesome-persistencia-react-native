@@ -91,13 +91,13 @@
 
 ## Vídeos e Tutoriais em Português
 
-- [Persistência de dados com React Native (Estácio – Denis Cople) - AJUSTAR](https://estacio.br/)
+- [SQLite (O Banco de Dados de Bolso) (YpuTube - Código Fonte TV)](https://www.youtube.com/watch?v=xOODmm-NdUc)
 
-- [AsyncStorage na prática (YouTube – Filipe Deschamps) - AJUSTAR](https://www.youtube.com/watch?v=XOYpIGxA68k)
+- [Como utilizar o SQLite no React Native com Expo (YouTube – Rodrigo Gonçalves)](https://www.youtube.com/watch?v=\_hytKpMc04E) - Este é um vídeo completíssimo mostrando um projeto bem interessante para ter base sólida com SQLite
 
-- [CRUD com SQLite no React Native (YouTube – Sujeito Programador) - AJUSTAR](https://www.youtube.com/watch?v=\_hytKpMc04E)
+- [React Native + Realm (YouTube – Quebrando Paradigmas)](https://youtube.com/playlist?list=PLT2gdUfk6jQTUAiwXTWai4rDo7pW_X7by&si=Hf0jQ4k4eOfrRgZu) - Este link leva a uma playlist muito legal de um projeto envolvendo react native e realm, tem um conhecimento bem sólido aplicado a ela.
 
-- [Realm Database no React Native (YouTube – Rocketseat) - AJUSTA](https://www.youtube.com/watch?v=GFVZt8tqL4E)
+- [Utilizando Async Storage no React Native (YouTube – Gabriel Mello)](https://www.youtube.com/watch?v=u4-GwottHfc) - Neste vídeo é criado um projetinho simples para entender como funciona e como usar o AsyncStorage
 
 ---
 
@@ -114,6 +114,7 @@
 Se você conhece algum artigo, vídeo ou ferramenta legal sobre persistência de dados no React Native, fique à vontade para sugerir aqui!  
 Pode abrir uma **Issue** com a dica ou, se preferir, um **Pull Request** para adicionar direto na lista.  
 Toda ajuda é bem-vinda para deixar esse conteúdo ainda mais completo.
+
 
 
 
