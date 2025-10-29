@@ -20,6 +20,7 @@
 - [Vídeos e Tutoriais em Português](#vídeos-e-tutoriais-em-português)
 - [Extras](#extras)
 - [Como Contribuir](como-contribuir)
+
 ---
 
 ## Conceitos Gerais
@@ -119,3 +120,4 @@
 Se você conhece algum artigo, vídeo ou ferramenta legal sobre persistência de dados no React Native, fique à vontade para sugerir aqui!  
 Pode abrir uma **Issue** com a dica ou, se preferir, um **Pull Request** para adicionar direto na lista.  
 Toda ajuda é bem-vinda para deixar esse conteúdo ainda mais completo.
+
