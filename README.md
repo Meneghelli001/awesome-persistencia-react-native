@@ -91,7 +91,7 @@
 
 ## Vídeos e Tutoriais em Português
 
-- [SQLite (O Banco de Dados de Bolso) (YpuTube - Código Fonte TV)](https://www.youtube.com/watch?v=xOODmm-NdUc)
+- [SQLite (O Banco de Dados de Bolso) (YouTube - Código Fonte TV)](https://www.youtube.com/watch?v=xOODmm-NdUc)
 
 - [Como utilizar o SQLite no React Native com Expo (YouTube – Rodrigo Gonçalves)](https://www.youtube.com/watch?v=\_hytKpMc04E) - Este é um vídeo completíssimo mostrando um projeto bem interessante para ter base sólida com SQLite
 
@@ -114,6 +114,7 @@
 Se você conhece algum artigo, vídeo ou ferramenta legal sobre persistência de dados no React Native, fique à vontade para sugerir aqui!  
 Pode abrir uma **Issue** com a dica ou, se preferir, um **Pull Request** para adicionar direto na lista.  
 Toda ajuda é bem-vinda para deixar esse conteúdo ainda mais completo.
+
 
 
 
