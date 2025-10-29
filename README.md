@@ -27,9 +27,9 @@
 
 - [Documentação oficial do AsyncStorage](https://react-native-async-storage.github.io/async-storage/docs/usage)
 
-- [Persistência de dados no React Native (React Native Docs)](https://reactnative.dev/docs/asyncstorage)
+- [Persistência de dados no React Native (React Native Docs)](https://github.com/react-native-async-storage/async-storage)
 
-- [Diferença entre armazenamento local e remoto (MDN)](https://developer.mozilla.org/pt-BR/docs/Web/API/Storage)
+- [Diferença entre armazenamento local e remoto (MDN)](https://technologyadvice.com/blog/information-technology/cloud-storage-vs-local-storage/)
 
 ---
 
@@ -37,11 +37,9 @@
 
 - [@react-native-async-storage/async-storage (GitHub)](https://github.com/react-native-async-storage/async-storage)
 
-- [Guia passo a passo – AsyncStorage com hooks](https://blog.logrocket.com/asyncstorage-react-native/)
+- [Guia passo a passo – AsyncStorage com hooks](https://medium.com/@arsdev/persist-data-like-a-pro-in-react-native-67f2bd328a54)
 
-- [Exemplo de CRUD com AsyncStorage](https://medium.com/reactbrasil/como-usar-o-asyncstorage-no-react-native-3b5f5ff8b3d4)
-
-- [Como limpar e atualizar dados do AsyncStorage](https://reactnative.dev/docs/asyncstorage#clear)
+- [Exemplo de CRUD com AsyncStorage](https://gist.github.com/pavlealeksic/3de9c6f3d6148e19b6ddee6b50ed5b94)
 
 ---
 
@@ -51,21 +49,21 @@
 
 - [Documentação da API SQLite para React Native](https://github.com/andpor/react-native-sqlite-storage#api)
 
-- [Tutorial: CRUD completo com SQLite no React Native](https://www.section.io/engineering-education/using-sqlite-in-react-native/)
+- [Tutorial: CRUD completo com SQLite no React Native](https://medium.com/@shivam.soni.webdev/how-to-implement-crud-in-react-native-with-sqlite-step-by-step-guide-843a8e1d7777)
 
-- [Comparação: AsyncStorage vs SQLite](https://dev.to/amanhimself/sqlite-vs-asyncstorage-in-react-native-40c2)
+- [Comparação: AsyncStorage vs SQLite](https://dev.to/cathylai/choosing-the-right-storage-solution-3log)
 
 ---
 
 ## Realm Database
 
-- [Documentação oficial do Realm React Native](https://www.mongodb.com/docs/realm/sdk/react-native/)
+- [Documentação oficial do Realm React Native](https://www.mongodb.com/docs/atlas/device-sdks/sdk/react-native/)
 
-- [Introdução ao Realm em React Native (MongoDB Blog)](https://www.mongodb.com/developer/products/realm/realm-react-native-tutorial/)
+- [Introdução ao Realm em React Native (MongoDB Blog)](https://dev.to/ajmal_hasan/building-a-react-native-app-with-realm-database-4ab4)
 
-- [Exemplo de CRUD com Realm](https://www.section.io/engineering-education/realm-database-with-react-native/)
+- [Exemplo de CRUD com Realm](https://www.scaler.com/topics/realm-react-native/)
 
-- [Realm vs SQLite: qual escolher?](https://www.simform.com/blog/realm-vs-sqlite/)
+- [Realm vs SQLite: qual escolher?](https://www.cleveroad.com/blog/realm-vs-sqlite-what-is-the-best-database-for-android-app-development/)
 
 ---
 
@@ -75,17 +73,15 @@
 
 - [Biblioteca Axios para conexão com APIs REST](https://axios-http.com/)
 
-- [Tutorial: Conectando React Native ao MongoDB via Express API](https://www.freecodecamp.org/news/connect-react-native-to-mongodb/)
+- [Tutorial: Conectando React Native ao MongoDB via Express API](https://medium.com/@ahsanshahzad16asb/building-a-full-stack-notes-app-with-react-native-mongodb-express-and-node-js-7a9218a9d874)
 
-- [Modelo Offline First com React Native](https://dev.to/mmazzarolo/offline-first-react-native-apps-4e45)
+- [Modelo Offline First com React Native](https://www.innovationm.com/blog/react-native-offline-first-architecture-sqlite-local-database-guide/)
 
 ---
 
 ## Ferramentas e Utilitários
 
 - [Expo SecureStore (armazenamento seguro)](https://docs.expo.dev/versions/latest/sdk/securestore/)
-
-- [react-native-encrypted-storage (armazenamento criptografado)](https://github.com/emeraldsanto/react-native-encrypted-storage)
 
 - [react-native-mmkv (alternativa de alto desempenho ao AsyncStorage)](https://github.com/mrousavy/react-native-mmkv)
 
@@ -97,19 +93,17 @@
 
 - [Persistência de dados com React Native (Estácio – Denis Cople) - AJUSTAR](https://estacio.br/)
 
-- [AsyncStorage na prática (YouTube – Filipe Deschamps)](https://www.youtube.com/watch?v=XOYpIGxA68k)
+- [AsyncStorage na prática (YouTube – Filipe Deschamps) - AJUSTAR](https://www.youtube.com/watch?v=XOYpIGxA68k)
 
-- [CRUD com SQLite no React Native (YouTube – Sujeito Programador)](https://www.youtube.com/watch?v=\_hytKpMc04E)
+- [CRUD com SQLite no React Native (YouTube – Sujeito Programador) - AJUSTAR](https://www.youtube.com/watch?v=\_hytKpMc04E)
 
-- [Realm Database no React Native (YouTube – Rocketseat)](https://www.youtube.com/watch?v=GFVZt8tqL4E)
+- [Realm Database no React Native (YouTube – Rocketseat) - AJUSTA](https://www.youtube.com/watch?v=GFVZt8tqL4E)
 
 ---
 
 ## Extras
 
 - [Lista oficial Awesome React Native](https://github.com/jondot/awesome-react-native)
-
-- [Awesome Async Storage (curadoria específica)](https://github.com/react-native-async-storage/awesome-async-storage)
 
 - [React Native Architecture – padrões de projeto](https://reactnative.dev/docs/architecture-overview)
 
@@ -120,5 +114,6 @@
 Se você conhece algum artigo, vídeo ou ferramenta legal sobre persistência de dados no React Native, fique à vontade para sugerir aqui!  
 Pode abrir uma **Issue** com a dica ou, se preferir, um **Pull Request** para adicionar direto na lista.  
 Toda ajuda é bem-vinda para deixar esse conteúdo ainda mais completo.
+
 
 
