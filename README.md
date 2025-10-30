@@ -4,7 +4,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)
 
 > Este repositório reúne conteúdos sobre persistência de dados no React Native.  
-> Meu objetivo é que este conteúdo ajude outras pessoas que estão iniciando na área, assim como eu, a encontrar informações ricas e organizadas sobre este tema, que é uma base tão importante para o desenvolvimento.
+> Meu objetivo é que este conteúdo ajude outras pessoas que estão iniciando na área, assim como eu, a encontrar informações claras, ricas e organizadas sobre esse tema, que é uma base tão importante para o desenvolvimento.
 
 ---
 
@@ -124,6 +124,7 @@ Links complementares para aprofundar o conhecimento sobre arquitetura, padrões 
 
 Se você conhece algum artigo, vídeo ou ferramenta interessante sobre persistência de dados no React Native, pode sugerir abrindo uma **Issue** ou enviando um **Pull Request**.  
 Toda contribuição é bem-vinda para tornar esta lista cada vez mais completa.
+
 
 
 
