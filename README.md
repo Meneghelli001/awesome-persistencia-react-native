@@ -3,14 +3,13 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)
 
-> Eu criei este repositório para compartilhar conhecimento sobre Persistência de Dados no React Native. Meu objetivo é que este conteúdo ajude outras pessoas que estão iniciando na área, assim como eu, a encontrar informações ricas e organizadas sobre este tema, que é uma base tão importante para o desenvolvimento.
+> Este repositório reúne conteúdos sobre persistência de dados no React Native.  
+> Meu objetivo é que este conteúdo ajude outras pessoas que estão iniciando na área, assim como eu, a encontrar informações ricas e organizadas sobre este tema, que é uma base tão importante para o desenvolvimento.
 
----
-- Revisar os Links novamente
-- Adicionar as descrições de cada tópico
 ---
 
 ## Índice
+
 - [Conceitos Gerais](#conceitos-gerais)
 - [AsyncStorage](#asyncstorage)
 - [SQLite](#sqlite)
@@ -25,97 +24,94 @@
 
 ## Conceitos Gerais
 
+Aborda os princípios básicos da persistência de dados, como serialização, diferença entre armazenamento local e remoto e interoperabilidade entre sistemas.
+
 - [Diferença entre armazenamento local e remoto (TechnologyAdvice)](https://technologyadvice.com/blog/information-technology/cloud-storage-vs-local-storage/)
 
 ---
 
 ## AsyncStorage
 
+Método simples e nativo do React Native para armazenar dados no formato chave-valor. É ideal para configurações, preferências e pequenas quantidades de informação local.
+
 - [Repositório Oficial - @react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage)
-
-- [@react-native-async-storage/async-storage (GitHub)](https://github.com/react-native-async-storage/async-storage)
-
 - [Guia passo a passo – AsyncStorage com hooks](https://medium.com/@arsdev/persist-data-like-a-pro-in-react-native-67f2bd328a54)
-
 - [Exemplo de CRUD com AsyncStorage](https://gist.github.com/pavlealeksic/3de9c6f3d6148e19b6ddee6b50ed5b94)
 
 ---
 
 ## SQLite
 
+Banco de dados relacional leve e local, muito usado em aplicativos móveis. Permite criar tabelas, executar consultas SQL e armazenar dados de forma estruturada no dispositivo.
+
 - [react-native-sqlite-storage (GitHub)](https://github.com/andpor/react-native-sqlite-storage)
-
 - [Documentação da API SQLite para React Native](https://github.com/andpor/react-native-sqlite-storage#api)
-
 - [Tutorial: CRUD completo com SQLite no React Native](https://medium.com/@shivam.soni.webdev/how-to-implement-crud-in-react-native-with-sqlite-step-by-step-guide-843a8e1d7777)
-
 - [Comparação: AsyncStorage vs SQLite vs MMKV](https://dev.to/cathylai/choosing-the-right-storage-solution-3log)
 
 ---
 
 ## Realm Database
 
+Banco de dados orientado a objetos que substitui o SQLite em muitos projetos. Tem boa performance, suporte a tipos complexos e integração direta com o React Native.
+
 - [Documentação oficial do Realm React Native](https://www.mongodb.com/docs/atlas/device-sdks/sdk/react-native/)
-
 - [Introdução ao Realm em React Native (DEV Community)](https://dev.to/ajmal_hasan/building-a-react-native-app-with-realm-database-4ab4)
-
 - [Exemplo de CRUD com Realm](https://www.scaler.com/topics/realm-react-native/)
-
 - [Realm vs SQLite: qual escolher?](https://www.cleveroad.com/blog/realm-vs-sqlite-what-is-the-best-database-for-android-app-development/)
 
 ---
 
 ## MongoDB e Armazenamento Remoto
 
+Focado em armazenamento remoto e integração com APIs. Mostra como usar o MongoDB e o Express para criar soluções que sincronizam dados entre o app e o servidor.
+
 - [MongoDB Atlas (criar cluster gratuito)](https://www.mongodb.com/atlas/database)
-
 - [Biblioteca Axios para conexão com APIs REST](https://axios-http.com/)
-
 - [Tutorial: Conectando React Native ao MongoDB via Express API](https://medium.com/@ahsanshahzad16asb/building-a-full-stack-notes-app-with-react-native-mongodb-express-and-node-js-7a9218a9d874)
-
 - [Modelo Offline First com React Native](https://www.innovationm.com/blog/react-native-offline-first-architecture-sqlite-local-database-guide/)
 
 ---
 
 ## Ferramentas e Utilitários
 
+Bibliotecas que complementam as opções de armazenamento, adicionando recursos de segurança, cache e melhor desempenho.  
+Essas ferramentas não aparecem no material didático original, mas são amplamente usadas em projetos modernos.
+
 - [Expo SecureStore (armazenamento seguro)](https://docs.expo.dev/versions/latest/sdk/securestore/)
-
 - [react-native-mmkv (alternativa de alto desempenho ao AsyncStorage)](https://github.com/mrousavy/react-native-mmkv)
-
 - [react-query (gerenciamento de cache e sincronização remota)](https://tanstack.com/query/latest)
 
 ---
 
 ## Vídeos e Tutoriais em Português
 
-- [SQLite (O Banco de Dados de Bolso) (YouTube - Código Fonte TV)](https://www.youtube.com/watch?v=xOODmm-NdUc) - Um vídeo rápido e muito bem feito explicando de uma forma bem intuitiva o que é o SQLite
+Conteúdos em vídeo que explicam de forma direta e acessível como aplicar os principais conceitos de persistência de dados no React Native.
 
-- [Como utilizar o SQLite no React Native com Expo (YouTube – Rodrigo Gonçalves)](https://www.youtube.com/watch?v=BJEACwKXWf8&t=446s) - Este é um vídeo completíssimo mostrando um projeto bem interessante para ter base sólida com SQLite
+- [SQLite (O Banco de Dados de Bolso) — Código Fonte TV](https://www.youtube.com/watch?v=xOODmm-NdUc)  
+  Explica de maneira simples e descontraída o que é o SQLite e por que ele é tão usado em dispositivos móveis.
 
-- [React Native + Realm (YouTube – Quebrando Paradigmas)](https://youtube.com/playlist?list=PLT2gdUfk6jQTUAiwXTWai4rDo7pW_X7by&si=Hf0jQ4k4eOfrRgZu) - Este link leva a uma playlist muito legal de um projeto envolvendo react native e realm, tem um conhecimento bem sólido aplicado a ela.
+- [Como utilizar o SQLite no React Native com Expo — Rodrigo Gonçalves](https://www.youtube.com/watch?v=BJEACwKXWf8&t=446s)  
+  Mostra na prática como configurar e usar o SQLite em um aplicativo criado com Expo.
 
-- [Utilizando Async Storage no React Native (YouTube – Gabriel Mello)](https://www.youtube.com/watch?v=u4-GwottHfc) - Neste vídeo é criado um projetinho simples para entender como funciona e como usar o AsyncStorage
+- [React Native + Realm — Quebrando Paradigmas](https://youtube.com/playlist?list=PLT2gdUfk6jQTUAiwXTWai4rDo7pW_X7by&si=Hf0jQ4k4eOfrRgZu)  
+  Playlist com vários vídeos sobre o uso do Realm no React Native. O conteúdo é bem estruturado e aborda conceitos aplicados a um projeto real.
+
+- [Utilizando Async Storage no React Native — Gabriel Mello](https://www.youtube.com/watch?v=u4-GwottHfc)  
+  Um passo a passo simples que ensina a salvar e recuperar dados com AsyncStorage.
 
 ---
 
 ## Extras
 
-- [Lista oficial Awesome React Native](https://github.com/jondot/awesome-react-native)
+Links complementares para aprofundar o conhecimento sobre arquitetura, padrões de projeto e referências gerais do ecossistema React Native.
 
+- [Lista oficial Awesome React Native](https://github.com/jondot/awesome-react-native)
 - [React Native Architecture – padrões de projeto](https://reactnative.dev/docs/architecture-overview)
 
 ---
 
 ## Como Contribuir
 
-Se você conhece algum artigo, vídeo ou ferramenta legal sobre persistência de dados no React Native, fique à vontade para sugerir aqui!  
-Pode abrir uma **Issue** com a dica ou, se preferir, um **Pull Request** para adicionar direto na lista.  
-Toda ajuda é bem-vinda para deixar esse conteúdo ainda mais completo.
-
-
-
-
-
-
-
+Se você conhece algum artigo, vídeo ou ferramenta interessante sobre persistência de dados no React Native, pode sugerir abrindo uma **Issue** ou enviando um **Pull Request**.  
+Toda contribuição é bem-vinda para tornar esta lista cada vez mais completa.
