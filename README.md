@@ -103,6 +103,9 @@ Conteúdos em vídeo que explicam de forma direta e acessível como aplicar os p
 - [React Native + Realm — Quebrando Paradigmas](https://youtube.com/playlist?list=PLT2gdUfk6jQTUAiwXTWai4rDo7pW_X7by&si=Hf0jQ4k4eOfrRgZu)  
   Playlist com vários vídeos sobre o uso do Realm no React Native. O conteúdo é bem estruturado e aborda conceitos aplicados a um projeto real.
 
+- [API com NodeJS + Express + Mongo (CRUD) — Rocketseat](https://www.youtube.com/watch?v=GAZdUyIV3ms)  
+  Ensina a criar a API REST (backend) que seu app React Native consumiria, cobrindo o módulo de armazenamento remoto.
+
 - [Utilizando Async Storage no React Native — Gabriel Mello](https://www.youtube.com/watch?v=u4-GwottHfc)  
   Um passo a passo simples que ensina a salvar e recuperar dados com AsyncStorage.
 
@@ -121,6 +124,7 @@ Links complementares para aprofundar o conhecimento sobre arquitetura, padrões 
 
 Se você conhece algum artigo, vídeo ou ferramenta interessante sobre persistência de dados no React Native, pode sugerir abrindo uma **Issue** ou enviando um **Pull Request**.  
 Toda contribuição é bem-vinda para tornar esta lista cada vez mais completa.
+
 
 
 
