@@ -25,15 +25,13 @@
 
 ## Conceitos Gerais
 
-- [Documentação oficial do AsyncStorage](https://react-native-async-storage.github.io/async-storage/docs/usage)
-
-- [Persistência de dados no React Native (React Native Docs)](https://github.com/react-native-async-storage/async-storage)
-
-- [Diferença entre armazenamento local e remoto (MDN)](https://technologyadvice.com/blog/information-technology/cloud-storage-vs-local-storage/)
+- [Diferença entre armazenamento local e remoto (TechnologyAdvice)](https://technologyadvice.com/blog/information-technology/cloud-storage-vs-local-storage/)
 
 ---
 
 ## AsyncStorage
+
+- [Repositório Oficial - @react-native-async-storage/async-storage](https://github.com/react-native-async-storage/async-storage)
 
 - [@react-native-async-storage/async-storage (GitHub)](https://github.com/react-native-async-storage/async-storage)
 
@@ -51,7 +49,7 @@
 
 - [Tutorial: CRUD completo com SQLite no React Native](https://medium.com/@shivam.soni.webdev/how-to-implement-crud-in-react-native-with-sqlite-step-by-step-guide-843a8e1d7777)
 
-- [Comparação: AsyncStorage vs SQLite](https://dev.to/cathylai/choosing-the-right-storage-solution-3log)
+- [Comparação: AsyncStorage vs SQLite vs MMKV](https://dev.to/cathylai/choosing-the-right-storage-solution-3log)
 
 ---
 
@@ -59,7 +57,7 @@
 
 - [Documentação oficial do Realm React Native](https://www.mongodb.com/docs/atlas/device-sdks/sdk/react-native/)
 
-- [Introdução ao Realm em React Native (MongoDB Blog)](https://dev.to/ajmal_hasan/building-a-react-native-app-with-realm-database-4ab4)
+- [Introdução ao Realm em React Native (DEV Community)](https://dev.to/ajmal_hasan/building-a-react-native-app-with-realm-database-4ab4)
 
 - [Exemplo de CRUD com Realm](https://www.scaler.com/topics/realm-react-native/)
 
@@ -114,6 +112,7 @@
 Se você conhece algum artigo, vídeo ou ferramenta legal sobre persistência de dados no React Native, fique à vontade para sugerir aqui!  
 Pode abrir uma **Issue** com a dica ou, se preferir, um **Pull Request** para adicionar direto na lista.  
 Toda ajuda é bem-vinda para deixar esse conteúdo ainda mais completo.
+
 
 
 
