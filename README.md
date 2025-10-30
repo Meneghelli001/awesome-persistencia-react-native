@@ -27,7 +27,6 @@
 
 Aborda os princípios básicos da persistência de dados, como serialização, diferença entre armazenamento local e remoto, e o padrão "Offline First".
 
-- [Diferença entre armazenamento local e remoto (TechnologyAdvice)](https://technologyadvice.com/blog/information-technology/cloud-storage-vs-local-storage/)
 - [O que é Serialização? JSON.stringify() (MDN Docs)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 - [Construindo Aplicações Offline-First com React Native (DEV Community)](https://dev.to/zidanegimiga/building-offline-first-applications-with-react-native-3626)
 - [Modelo Offline First com React Native (Blog InnovationM)](https://www.innovationm.com/blog/react-native-offline-first-architecture-sqlite-local-database-guide/)
@@ -85,6 +84,7 @@ Essas ferramentas não aparecem no material didático original, mas são amplame
 
 ## Artigos de Comparação
 
+- [Diferença entre armazenamento local e remoto (TechnologyAdvice)](https://technologyadvice.com/blog/information-technology/cloud-storage-vs-local-storage/)
 - [Comparação: AsyncStorage vs SQLite vs MMKV](https://dev.to/cathylai/choosing-the-right-storage-solution-3log)
 - [Realm vs SQLite: qual escolher?](https://www.cleveroad.com/blog/realm-vs-sqlite-what-is-the-best-database-for-android-app-development/)
 
@@ -121,6 +121,7 @@ Links complementares para aprofundar o conhecimento sobre arquitetura, padrões 
 
 Se você conhece algum artigo, vídeo ou ferramenta interessante sobre persistência de dados no React Native, pode sugerir abrindo uma **Issue** ou enviando um **Pull Request**.  
 Toda contribuição é bem-vinda para tornar esta lista cada vez mais completa.
+
 
 
 
