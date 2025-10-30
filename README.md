@@ -66,7 +66,7 @@ Banco de dados orientado a objetos que substitui o SQLite em muitos projetos. Te
 Focado em armazenamento remoto e integração com APIs. Mostra como usar o MongoDB e o Express para criar soluções que sincronizam dados entre o app e o servidor.
 
 - [MongoDB Atlas (criar cluster gratuito)](https://www.mongodb.com/atlas/database)
-- [Biblioteca Axios para conexão com APIs REST](https://axios-http.com/)
+- [Biblioteca Axios para conexão com APIs REST](https://github.com/axios/axios)
 - [Tutorial: Conectando React Native ao MongoDB via Express API](https://medium.com/@ahsanshahzad16asb/building-a-full-stack-notes-app-with-react-native-mongodb-express-and-node-js-7a9218a9d874)
 - [Modelo Offline First com React Native](https://www.innovationm.com/blog/react-native-offline-first-architecture-sqlite-local-database-guide/)
 
@@ -114,5 +114,6 @@ Links complementares para aprofundar o conhecimento sobre arquitetura, padrões 
 
 Se você conhece algum artigo, vídeo ou ferramenta interessante sobre persistência de dados no React Native, pode sugerir abrindo uma **Issue** ou enviando um **Pull Request**.  
 Toda contribuição é bem-vinda para tornar esta lista cada vez mais completa.
+
 
 
