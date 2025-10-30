@@ -44,7 +44,7 @@ Método simples e nativo do React Native para armazenar dados no formato chave-v
 
 Banco de dados relacional leve e local, muito usado em aplicativos móveis. Permite criar tabelas, executar consultas SQL e armazenar dados de forma estruturada no dispositivo.
 
-- [react-native-sqlite-storage (GitHub)](https://github.com/andpor/react-native-sqlite-storage)
+- [Plugin nativo SQLite3 para React Native para Android - react-native-sqlite-storage (GitHub)](https://github.com/andpor/react-native-sqlite-storage)
 - [Documentação da API SQLite para React Native](https://github.com/andpor/react-native-sqlite-storage#api)
 - [Tutorial: CRUD completo com SQLite no React Native](https://medium.com/@shivam.soni.webdev/how-to-implement-crud-in-react-native-with-sqlite-step-by-step-guide-843a8e1d7777)
 - [Comparação: AsyncStorage vs SQLite vs MMKV](https://dev.to/cathylai/choosing-the-right-storage-solution-3log)
@@ -115,3 +115,4 @@ Links complementares para aprofundar o conhecimento sobre arquitetura, padrões 
 
 Se você conhece algum artigo, vídeo ou ferramenta interessante sobre persistência de dados no React Native, pode sugerir abrindo uma **Issue** ou enviando um **Pull Request**.  
 Toda contribuição é bem-vinda para tornar esta lista cada vez mais completa.
+
