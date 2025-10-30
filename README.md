@@ -16,6 +16,7 @@
 - [Realm Database](#realm-database)
 - [MongoDB e Armazenamento Remoto](#mongodb-e-armazenamento-remoto)
 - [Ferramentas e Utilitários](#ferramentas-e-utilitários)
+- [Artigos de Comparação](#artigos-de-comparação)
 - [Vídeos e Tutoriais em Português](#vídeos-e-tutoriais-em-português)
 - [Extras](#extras)
 - [Como Contribuir](#como-contribuir)
@@ -24,9 +25,12 @@
 
 ## Conceitos Gerais
 
-Aborda os princípios básicos da persistência de dados, como serialização, diferença entre armazenamento local e remoto e interoperabilidade entre sistemas.
+Aborda os princípios básicos da persistência de dados, como serialização, diferença entre armazenamento local e remoto, e o padrão "Offline First".
 
 - [Diferença entre armazenamento local e remoto (TechnologyAdvice)](https://technologyadvice.com/blog/information-technology/cloud-storage-vs-local-storage/)
+- [O que é Serialização? JSON.stringify() (MDN Docs)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+- [Construindo Aplicações Offline-First com React Native (DEV Community)](https://dev.to/zidanegimiga/building-offline-first-applications-with-react-native-3626)
+- [Modelo Offline First com React Native (Blog InnovationM)](https://www.innovationm.com/blog/react-native-offline-first-architecture-sqlite-local-database-guide/)
 
 ---
 
@@ -43,10 +47,9 @@ Método simples e nativo do React Native para armazenar dados no formato chave-v
 ## SQLite
 
 Banco de dados relacional leve e local, muito usado em aplicativos móveis. Permite criar tabelas, executar consultas SQL e armazenar dados de forma estruturada no dispositivo.
-
-- [Plugin nativo SQLite para React Native - react-native-sqlite-storage (GitHub)](https://github.com/andpor/react-native-sqlite-storage)
+- [**Biblioteca para Expo:** `expo-sqlite` (Documentação Oficial)](https://docs.expo.dev/versions/latest/sdk/sqlite/)
+- [**Biblioteca para React Native (Nativo):** `react-native-sqlite-storage` (GitHub)](https://github.com/andpor/react-native-sqlite-storage)
 - [Tutorial: CRUD completo com SQLite no React Native](https://medium.com/@shivam.soni.webdev/how-to-implement-crud-in-react-native-with-sqlite-step-by-step-guide-843a8e1d7777)
-- [Comparação: AsyncStorage vs SQLite vs MMKV](https://dev.to/cathylai/choosing-the-right-storage-solution-3log)
 
 ---
 
@@ -57,7 +60,6 @@ Banco de dados orientado a objetos que substitui o SQLite em muitos projetos. Te
 - [Documentação oficial do Realm React Native](https://www.mongodb.com/docs/atlas/device-sdks/sdk/react-native/)
 - [Introdução ao Realm em React Native (DEV Community)](https://dev.to/ajmal_hasan/building-a-react-native-app-with-realm-database-4ab4)
 - [Exemplo de CRUD com Realm](https://www.scaler.com/topics/realm-react-native/)
-- [Realm vs SQLite: qual escolher?](https://www.cleveroad.com/blog/realm-vs-sqlite-what-is-the-best-database-for-android-app-development/)
 
 ---
 
@@ -68,7 +70,6 @@ Focado em armazenamento remoto e integração com APIs. Mostra como usar o Mongo
 - [MongoDB Atlas (criar cluster gratuito)](https://www.mongodb.com/atlas/database)
 - [Biblioteca Axios para conexão com APIs REST](https://github.com/axios/axios)
 - [Tutorial: Conectando React Native ao MongoDB via Express API](https://medium.com/@ahsanshahzad16asb/building-a-full-stack-notes-app-with-react-native-mongodb-express-and-node-js-7a9218a9d874)
-- [Modelo Offline First com React Native](https://www.innovationm.com/blog/react-native-offline-first-architecture-sqlite-local-database-guide/)
 
 ---
 
@@ -77,8 +78,15 @@ Focado em armazenamento remoto e integração com APIs. Mostra como usar o Mongo
 Bibliotecas que complementam as opções de armazenamento, adicionando recursos de segurança, cache e melhor desempenho.  
 Essas ferramentas não aparecem no material didático original, mas são amplamente usadas em projetos modernos.
 
-- [Expo SecureStore (armazenamento seguro)](https://docs.expo.dev/versions/latest/sdk/securestore/)
-- [react-native-mmkv (alternativa de alto desempenho ao AsyncStorage)](https://github.com/mrousavy/react-native-mmkv)
+- [**`WatermelonDB`:** Banco de dados reativo de alta performance focado em "Offline-First". Construído sobre o SQLite. (GitHub)](https://github.com/Nozbe/WatermelonDB)
+- [**`react-native-mmkv`:** Alternativa de alto desempenho (key-value) ao AsyncStorage.](https://github.com/mrousavy/react-native-mmkv)
+- [**Expo SecureStore:** Armazenamento seguro de valores criptografados no dispositivo (ideal para tokens de autenticação).](https://docs.expo.dev/versions/latest/sdk/securestore/)
+---
+
+## Artigos de Comparação
+
+- [Comparação: AsyncStorage vs SQLite vs MMKV](https://dev.to/cathylai/choosing-the-right-storage-solution-3log)
+- [Realm vs SQLite: qual escolher?](https://www.cleveroad.com/blog/realm-vs-sqlite-what-is-the-best-database-for-android-app-development/)
 
 ---
 
@@ -113,6 +121,7 @@ Links complementares para aprofundar o conhecimento sobre arquitetura, padrões 
 
 Se você conhece algum artigo, vídeo ou ferramenta interessante sobre persistência de dados no React Native, pode sugerir abrindo uma **Issue** ou enviando um **Pull Request**.  
 Toda contribuição é bem-vinda para tornar esta lista cada vez mais completa.
+
 
 
 
