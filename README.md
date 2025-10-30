@@ -79,7 +79,6 @@ Essas ferramentas não aparecem no material didático original, mas são amplame
 
 - [Expo SecureStore (armazenamento seguro)](https://docs.expo.dev/versions/latest/sdk/securestore/)
 - [react-native-mmkv (alternativa de alto desempenho ao AsyncStorage)](https://github.com/mrousavy/react-native-mmkv)
-- [react-query (gerenciamento de cache e sincronização remota)](https://tanstack.com/query/latest)
 
 ---
 
@@ -114,6 +113,7 @@ Links complementares para aprofundar o conhecimento sobre arquitetura, padrões 
 
 Se você conhece algum artigo, vídeo ou ferramenta interessante sobre persistência de dados no React Native, pode sugerir abrindo uma **Issue** ou enviando um **Pull Request**.  
 Toda contribuição é bem-vinda para tornar esta lista cada vez mais completa.
+
 
 
 
